@@ -1,0 +1,2 @@
+# xxx-solutions-java
+テンプレート
